@@ -4,6 +4,5 @@
 # Contenido del curso
 ```bash
 Sección No. 1 Primeros Pasos en PL/SQL
-    1. Bloques anónimos
-    2. 
+    1. Mi Primer Bloque anonimo en PL-SQL
 ```
