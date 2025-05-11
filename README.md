@@ -9,4 +9,5 @@ Sección No. 1 Primeros Pasos en PL/SQL
     03. Variables en PL-SQL
     04. Uso de CONSTANT y NULL
         - Prácticas
+    05. Variables Boolean
 ```
