@@ -3,7 +3,7 @@
 
 # Contenido del curso
 ```bash
-Sección No. 1 Primeros Pasos en PL-SQL
+Sección No. 1 PRIMEROS PASOS EN PL-SQL
     01. Mi Primer Bloque anonimo en PL-SQL
     02. Visualizar Salida por Pantalla DBMS_OUTPUT
     03. Variables en PL-SQL
@@ -14,5 +14,6 @@ Sección No. 1 Primeros Pasos en PL-SQL
     07. OPERADORES MAS HABITUALES EN PL-SQL
     08. BLOQUES ANIDADOS
     09. Uso de funciones dentro de PL-SQL
-    
+
+Sección No. 2 ESTURCTURAS DE CONTROL EN PL-SQL    
 ```
