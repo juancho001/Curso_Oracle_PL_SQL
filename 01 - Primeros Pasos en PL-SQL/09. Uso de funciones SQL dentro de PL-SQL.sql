@@ -1,0 +1,22 @@
+SET SERVEROUTPUT ON
+DECLARE 
+    X VARCHAR2(50);
+    MAYUS VARCHAR2(50);
+    FECHA DATE;
+    Z NUMBER:=109.80;
+BEGIN
+    X:= 'HELLO';
+    DBMS_OUTPUT.PUT_LINE(SUBSTR(X, 1, 3));
+    MAYUS:= UPPER(X);
+    DBMS_OUTPUT.PUT_LINE(MAYUS);
+    FECHA := SYSDATE;
+    DBMS_OUTPUT.PUT_LINE( SUBSTR(CAST(FECHA AS VARCHAR2),1,5) ) ;
+    DBMS_OUTPUT.PUT_LINE(FLOOR(Z));
+END;
+
+
+/*
+* TODO: Las siguientes funciones no estan permitidas dentro del PS-SQL
+* 1. Funciones de Grupo (COUNT, SUM, AVG ...)
+* 2. DECODE
+*/
