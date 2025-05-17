@@ -25,4 +25,5 @@ Sección No. 2 ESTURCTURAS DE CONTROL EN PL-SQL
         - Bucles LOOP Anidados
         - Bucles LOOP y la clausula CONTINUE
     05. Bucle FOR
+        -  Bucle FOR REVERSE
 ```
