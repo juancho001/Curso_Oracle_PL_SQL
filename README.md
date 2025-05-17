@@ -23,4 +23,5 @@ Sección No. 2 ESTURCTURAS DE CONTROL EN PL-SQL
     03. Estructuras de Control CASE
     04. Bucle LOOP
         - Bucles LOOP Anidados
+        - Bucles LOOP y la clausula CONTINUE
 ```
