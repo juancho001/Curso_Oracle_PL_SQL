@@ -20,4 +20,5 @@ Sección No. 2 ESTURCTURAS DE CONTROL EN PL-SQL
     02. Estructuras de Control IF
         - Estructuras de Control IF-ELSE
         - Estructuras de Control IF-ELSIF
+    03. Estructuras de Control CASE
 ```
