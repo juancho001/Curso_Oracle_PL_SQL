@@ -31,4 +31,5 @@ Sección No. 2 ESTURCTURAS DE CONTROL EN PL-SQL
 Sección No. 3 Consultas SQL dentro de PL-SQL
     01. Select dentro de PL-SQL
     02. %ROWTYPE en PL-SQL
+    03. Inserts dentro de PL-SQL
 ```
