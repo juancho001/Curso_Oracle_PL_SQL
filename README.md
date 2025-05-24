@@ -28,4 +28,5 @@ Sección No. 2 ESTURCTURAS DE CONTROL EN PL-SQL
         -  Bucle FOR REVERSE
     06. Bucle Do While
     07. Clausula GOTO
+Sección No. 3 Consultas SQL dentro de PL-SQL
 ```
